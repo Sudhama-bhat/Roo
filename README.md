@@ -36,7 +36,7 @@ npm install
 Create a `.env` file inside the `roots/` directory with the following content:
 
 ```env
-MONGODB_URI=mongodb+srv://nigga:nigga@root1234.65vo9un.mongodb.net/
+MONGODB_URI=mongodb+srv://<username>:<password>@root1234.65vo9un.mongodb.net/
 JWT_SECRET=your_jwt_secret
 BRAINTREE_MERCHANT_ID=your_braintree_merchant_id
 BRAINTREE_PUBLIC_KEY=your_braintree_public_key
